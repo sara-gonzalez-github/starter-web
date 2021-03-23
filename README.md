@@ -8,6 +8,10 @@ This example is to show different parts of the repository.
 
 ## Purpose
 
+Explanation to purpose section.
+
 ## Deployment
+
+Explanation to deployment section.
 
 ## How to contribute
