@@ -16,6 +16,8 @@ Explanation to deployment section.
 
 ## How to contribute
 
+Please fork this repository and then issue pull request for review.
+
 ## Copyright
 
 Copyright 2014 Git.Training
