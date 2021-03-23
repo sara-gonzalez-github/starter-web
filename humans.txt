@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sara Gonzalez sara@git.training @awesomeSara
 
 # THANKS
 
