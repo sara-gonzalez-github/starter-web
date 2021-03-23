@@ -15,3 +15,7 @@ Explanation to purpose section.
 Explanation to deployment section.
 
 ## How to contribute
+
+## Copyright
+
+Copyright 2014 Git.Training
